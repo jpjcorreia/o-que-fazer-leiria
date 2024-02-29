@@ -2,7 +2,7 @@ repo_name: jpjcorreia/o-que-fazer-leiria
 report_id: 33aef1c02b603878e04068eda6fdc2d9
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:17:29+00:00'
+timestamp: '2024-02-29T18:11:58+00:00'
 requested_by: markkaylor
 provider: github
 branch: master
@@ -94,7 +94,7 @@ tools:
   detection_source_url: https://github.com/jpjcorreia/o-que-fazer-leiria
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.0.5
   license: MIT
